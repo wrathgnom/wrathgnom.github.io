@@ -65,7 +65,7 @@ a {
     }
 .main {
     width: 900px ;
-    background: rgb(151, 128, 128);
+    background: white;
     font: 20pt bold;
     margin-left: 260px;
 }
